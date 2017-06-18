@@ -16,6 +16,7 @@ A curated list of Sinhala Open resources
 
 ## Dictionaries
 - [OSX-sinhalese-dictionary](https://github.com/bhagyas/osx-sinhalese-dictionary) - English to Sinhalese Dictionary for Mac OS X Mavericks and Yosemite
+- [Sinhala-Dictionary](https://github.com/laknath/Sinhala-Dictionary) - A dictionary and a corpus for Sinhala
 
 ## Fonts
 - [abhaya-libre-font](https://github.com/mooniak/abhaya-libre-font) - Abhaya Libre - the unicode compliant libre version of FM Abhaya font
@@ -27,11 +28,13 @@ A curated list of Sinhala Open resources
 - [SinhalaOombi](https://github.com/hamparawa/SinhalaOombi) - Original source of the Sinhala Oombi game for Windows
 
 ## Libraries
+- [Sinhala-speech-recognition](https://github.com/chathux/sinhala-speech-recognition) - Speech recognition library for sinhala language
 - [Sinhala Utils](https://github.com/bhagyas/sinhala-utils) - A util library for processing Sinhalese/Sinhala characters and Strings.
 - [scim-sinhala](https://github.com/tzhuan/scim-sinhala) - scim-sinhala is an SCIM IMEngine module for Sinhala
 
 ## Tools
 - [Corpus Sinhala Tools](https://github.com/madurangasiriwardena/corpus.sinhala.tools) - The SinhalaTokenizer which includes methods to split Sinhala texts into both words and sentences
+- [Sinhetic 1.0](https://github.com/janithl/sinhetic) - Transliterator app to convert Latin script phonetic Sinhala to Unicode Sinhala
 
 ## License
 
