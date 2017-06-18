@@ -28,6 +28,7 @@ A curated list of Sinhala Open resources
 
 ## Libraries
 - [Sinhala Utils](https://github.com/bhagyas/sinhala-utils) - A util library for processing Sinhalese/Sinhala characters and Strings.
+- [scim-sinhala](https://github.com/tzhuan/scim-sinhala) - scim-sinhala is an SCIM IMEngine module for Sinhala
 
 ## Tools
 - [Corpus Sinhala Tools](https://github.com/madurangasiriwardena/corpus.sinhala.tools) - The SinhalaTokenizer which includes methods to split Sinhala texts into both words and sentences
@@ -36,4 +37,4 @@ A curated list of Sinhala Open resources
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Nadun Indunil](https://nadunindunil.github.io) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [Nadun Indunil](http://nadunindunil.github.io) has waived all copyright and related or neighboring rights to this work.
