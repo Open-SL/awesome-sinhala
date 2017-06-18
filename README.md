@@ -1,18 +1,22 @@
 # Awesome Sinhala [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-Curated list of Sinhala Open resources
+A curated list of Sinhala Open resources
 
 ## Contents 
 
+- [APIs](#apis)
 - [Dictionaries](#dictionaries)
+- [Libraries](#libraries)
 - [Tools](#tools)
-- [API](#api) 
 
-## API
+## APIs
 - [Singlish Translisteration API](https://github.com/CodeLanka/singlish-api) - api to transliterate singlish
 
 ## Dictionaries
-- [osx-sinhalese-dictionary](https://github.com/bhagyas/osx-sinhalese-dictionary) - English to Sinhalese Dictionary for Mac OS X Mavericks and Yosemite
+- [OSX-sinhalese-dictionary](https://github.com/bhagyas/osx-sinhalese-dictionary) - English to Sinhalese Dictionary for Mac OS X Mavericks and Yosemite
+
+## Libraries
+- [Sinhala Utils](https://github.com/bhagyas/sinhala-utils) - A util library for processing Sinhalese/Sinhala characters and Strings.
 
 ## Tools
 - [Corpus Sinhala Tools](https://github.com/madurangasiriwardena/corpus.sinhala.tools) - The SinhalaTokenizer which includes methods to split Sinhala texts into both words and sentences
