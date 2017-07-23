@@ -17,6 +17,7 @@ A curated list of Sinhala Open resources
 ## Dictionaries
 - [OSX-sinhalese-dictionary](https://github.com/bhagyas/osx-sinhalese-dictionary) - English to Sinhalese Dictionary for Mac OS X Mavericks and Yosemite
 - [Sinhala-Dictionary](https://github.com/laknath/Sinhala-Dictionary) - A dictionary and a corpus for Sinhala
+- [SinhalaAruth](https://github.com/kmchmk1026/SinhalaAruth) - A Sinhala to Sinhala Lexicon
 
 ## Fonts
 - [abhaya-libre-font](https://github.com/mooniak/abhaya-libre-font) - Abhaya Libre - the unicode compliant libre version of FM Abhaya font
