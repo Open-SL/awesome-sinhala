@@ -14,6 +14,9 @@ A curated list of Sinhala Open resources
 ## APIs
 - [Singlish Translisteration API](https://github.com/CodeLanka/singlish-api) - api to transliterate singlish
 
+## Bots
+- [reliefsupports-bot](https://github.com/SurfEdge/reliefsupports-bot) - A messenger bot for [reliefsupports.org](http://reliefsupports.org/)
+
 ## Dictionaries
 - [OSX-sinhalese-dictionary](https://github.com/bhagyas/osx-sinhalese-dictionary) - English to Sinhalese Dictionary for Mac OS X Mavericks and Yosemite
 - [Sinhala-Dictionary](https://github.com/laknath/Sinhala-Dictionary) - A dictionary and a corpus for Sinhala
