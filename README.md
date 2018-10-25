@@ -5,9 +5,10 @@ A curated list of Sinhala Open resources
 ## Contents 
 
 - [APIs](#apis)
+- [Bots](#bots)
 - [Dictionaries](#dictionaries)
-- [Games](#games)
 - [Fonts](#fonts)
+- [Games](#games)
 - [Libraries](#libraries)
 - [Tools](#tools)
 
