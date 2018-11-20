@@ -17,7 +17,7 @@ A curated list of Sinhala Open resources
 
 ## Bots
 - [reliefsupports-bot](https://github.com/SurfEdge/reliefsupports-bot) - A messenger bot for [reliefsupports.org](http://reliefsupports.org/)
-
+- [Aruth Bot](https://github.com/SurfEdge/reliefsupports-bot) - A messenger bot dictionary.
 ## Dictionaries
 - [OSX-sinhalese-dictionary](https://github.com/bhagyas/osx-sinhalese-dictionary) - English to Sinhalese Dictionary for Mac OS X Mavericks and Yosemite
 - [Sinhala-Dictionary](https://github.com/laknath/Sinhala-Dictionary) - A dictionary and a corpus for Sinhala
